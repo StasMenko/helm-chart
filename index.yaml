@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  k8s-program-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-05T11:50:01.174151+03:00"
+    description: A Helm chart for Kubernetes
+    digest: d9dea0317636ec336b91e8dc344cf8b6fa5a8bc643550c084bfc7769090520ae
+    name: k8s-program-chart
+    type: application
+    urls:
+    - https://stasmenko.github.io/helm-chart/k8s-program-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-05T11:50:01.1713958+03:00"
